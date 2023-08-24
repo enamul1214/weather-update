@@ -4,7 +4,7 @@ import Main from './components/Main';
 
 function App() {
   return (
-    <div className="border-2 color-red">
+    <div className="w-[320px] mx-auto bg-blue-300 rounded-lg p-5 mt-4">
       <Header />
       <Main />
       <Footer />
